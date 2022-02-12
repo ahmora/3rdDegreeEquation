@@ -1,3 +1,10 @@
+# 3rdDegreeEquation
+This is a small program written on C++ to solve 3rd degree equations
+
+### Prerequisites
+* c++
+
+### Installation
 just need to clone this repository to your local computer and you are all set.
 
 ### Executing the project
